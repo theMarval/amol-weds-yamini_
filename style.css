@@ -2,7 +2,7 @@
   margin-left: -10px;
   color: transparent;
   -webkit-text-stroke: 1px rgb(186, 184, 184);
-  background: url(images/istockphoto-1248542684-612x612.jpg);
+  background: url(istockphoto-1248542684-612x612.jpg);
   -webkit-background-clip:text;
   background-position: 0 0;
   animation: back 20s linear infinite;
@@ -66,37 +66,37 @@ a{
 }
 
 .img-7 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04071.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04071.JPG');
   background-position: center;
 }
 
 .img-4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04394.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04394.jpg');
   background-position: center;
 }
 
 .img-2 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04375.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04375.JPG');
   background-position: center;
 }
 .img-1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04112.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04112.png');
   background-position: center;
 }
 .img-8 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04030.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04030.JPG');
   background-position: center;
 }
 .img-3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP03937.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP03937.JPG');
   background-position: center;
 }
 .img-6{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04129.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04129.JPG');
   background-position: center;
 }
 .img-5{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('images/DPP04190.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04190.JPG');
   background-position: center;
 }
 
@@ -250,7 +250,7 @@ a{
 }
 
 .event-details{
-  background-image: url(images/from-bottom.png);
+  background-image: url(from-bottom.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
